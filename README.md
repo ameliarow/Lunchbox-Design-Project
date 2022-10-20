@@ -1,2 +1,2 @@
-# Lunch Thyme Project (DECO3500)
-## Amelia Rowhani
+# Lunch Thyme Project 
+## Amelia Rowhani | DECO3500 | Group Open
