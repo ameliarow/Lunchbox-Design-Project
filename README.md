@@ -24,3 +24,9 @@ Please find detailed and ongoing process documentation of project work by access
 * [Future Considerations and Processes](https://github.com/ameliarow/Lunchbox-Design-Project/wiki/Future-Considerations-and-Processes)
 
 ### Promotional Materials
+* [Conference Poster](https://github.com/ameliarow/Lunchbox-Design-Project/blob/main/Promotional%20Materials/conferenceposter.png)
+* [Brochure](https://github.com/ameliarow/Lunchbox-Design-Project/blob/main/Promotional%20Materials/lunchthymeBrochure.pdf)
+* [Video](https://youtu.be/JPFeO0diLyE)
+* [Website](https://ameliarowhani.wixsite.com/lunchthyme)
+* [Social Media](https://www.instagram.com/lunchthyme.app/?hl=en)
+* [Design Process](https://github.com/ameliarow/Lunchbox-Design-Project/blob/main/Promotional%20Materials/lunchthymedesignprocess.png)
