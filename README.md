@@ -1,2 +1,2 @@
-# Lunch Thyme 
-Design Project
+# Lunch Thyme Project (DECO3500)
+## Amelia Rowhani
